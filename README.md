@@ -1,4 +1,4 @@
-# 🟩 Projeto – ETL de Histórico de Vendas para Data Lake
+# ETL de Histórico de Vendas para Data Lake
 
 Este projeto demonstra um pipeline de **ETL tradicional** (lote) usando Python e serviços da AWS. Ele simula um cenário real onde uma empresa precisa processar diariamente seu histórico de vendas e armazenar os dados em um **Data Lake (Amazon S3)**, permitindo análise posterior com **Amazon Athena**.
 
